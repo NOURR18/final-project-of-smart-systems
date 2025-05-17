@@ -1,0 +1,54 @@
+Truck 1:
+  Route: ['City_15', 'City_61', 'City_0', 'City_1', 'City_11', 'City_10', 'City_12', 'City_13', 'City_14']
+  Distance: 3231041.00 meters
+  Total Orders: 457
+
+Truck 2:
+  Route: ['City_5', 'City_50', 'City_49', 'City_61', 'City_51', 'City_48', 'City_52']
+  Distance: 4457942.00 meters
+  Total Orders: 365
+
+Truck 3:
+  Route: ['City_3', 'City_26', 'City_30', 'City_24', 'City_29', 'City_28', 'City_27', 'City_25', 'City_23', 'City_22', 'City_61']
+  Distance: 2924558.00 meters
+  Total Orders: 755
+
+Truck 4:
+  Route: ['City_4', 'City_35', 'City_34', 'City_36', 'City_31', 'City_37', 'City_38', 'City_39', 'City_33', 'City_32', 'City_61']
+  Distance: 2983718.00 meters
+  Total Orders: 746
+
+Truck 5:
+  Route: ['City_57', 'City_56', 'City_61']
+  Distance: 1812627.00 meters
+  Total Orders: 71
+
+Truck 6:
+  Route: ['City_41', 'City_40', 'City_44', 'City_43', 'City_42', 'City_46', 'City_45', 'City_47', 'City_61']
+  Distance: 1956236.00 meters
+  Total Orders: 436
+
+Truck 7:
+  Route: ['City_21', 'City_16', 'City_17', 'City_18', 'City_19', 'City_20', 'City_61', 'City_2']
+  Distance: 2349918.00 meters
+  Total Orders: 665
+
+Truck 8:
+  Route: ['City_61', 'City_59', 'City_6', 'City_58']
+  Distance: 2508848.00 meters
+  Total Orders: 513
+
+Truck 9:
+  Route: ['City_60', 'City_7', 'City_61', 'City_8', 'City_9']
+  Distance: 4816561.00 meters
+  Total Orders: 173
+
+Truck 10:
+  Route: ['City_54', 'City_53', 'City_55', 'City_61']
+  Distance: 2548878.00 meters
+  Total Orders: 454
+
+=========== Summary ===========
+Total Trucks Used: 10
+Total Distance: 29590327.00 meters
+Total Cost (with penalty): 29640327.00
